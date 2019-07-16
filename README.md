@@ -1,6 +1,6 @@
 # Investment-Case-Study
 
-# This assignment is performed by me as part of PG Diploma in Data Science program offerd by IIITB and upgrad.
+### This assignment is performed by me as part of PG Diploma in Data Science program offerd by IIITB and upgrad.
 
 Spark Funds wants to make investments in a few companies. The CEO of Spark Funds wants to understand the global trends in investments so that she can take the investment decisions effectively.
 
